@@ -54,6 +54,7 @@ body
 {
   background-color:#6AC0BD;
   width: 250px;
+  font-family: 'Montserrat', sans-serif;
   font-size: 60px;
   color: #fff;
   border: 1px solid #1d3c6e;
@@ -84,6 +85,7 @@ body
 {
   outline: 0;
 }
+
 
 
 
