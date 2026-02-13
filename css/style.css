@@ -23,7 +23,7 @@ body
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.5), -1px 
   -1px 2px #aaa, 1px 1px 2px #555;
   backdrop-filter:blur(0.8rem) ;
-  border-radius:10px;
+  border-radius:50px;
 } 
 
  .grid h1
@@ -85,6 +85,7 @@ body
 {
   outline: 0;
 }
+
 
 
 
