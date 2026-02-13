@@ -41,7 +41,7 @@ body
 {
   font-family: 'Montserrat', sans-serif;
   font-size: 50px;
-  color:#fff;
+  color:#6AC0BD;
   text-align: center;
 }
 
@@ -52,7 +52,7 @@ body
 
 #btn0, #btn1, #btn2, #btn3
 {
-  background-color: #778897;
+  background-color:#6AC0BD;
   width: 250px;
   font-size: 20px;
   color: #fff;
@@ -84,5 +84,6 @@ body
 {
   outline: 0;
 }
+
 
 
