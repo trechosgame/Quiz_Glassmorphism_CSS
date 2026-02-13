@@ -29,7 +29,7 @@ body
  .grid h1
  {
    font-family: 'Montserrat', sans-serif;
-   background-color: #57636e;
+   background-color: #6AC0BD;
    font-size: 60px;
    text-align: center;
    color:#fff;
@@ -84,3 +84,4 @@ body
 {
   outline: 0;
 }
+
